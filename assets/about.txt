@@ -1,0 +1,1 @@
+This is a folder containing all additional assets for the readme file.
