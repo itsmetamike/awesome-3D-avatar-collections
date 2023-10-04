@@ -1,8 +1,66 @@
-# awesome-vrm-collections
-A list of tokenized VRM avatar collections, example files and associated metadata
+![alt text](https://raw.githubusercontent.com/itsmetamike/awesome-3D-avatar-collections/main/a3ac_banner.png)
 
-| Creator | Contract | Metadata | Metadata Param | Preview |
-| --- | --- | --- | --- | --- |
-| [CryptoAvatars](https://cryptoavatars.io/) | [Link](https://etherscan.io/address/0xbffd07cc4d32578fe3ccbf8bd0c5ffa8da3fc600) | [Link](https://api.cryptoavatars.io/v1/opensea/assets/1/0xc1def47cf1e15ee8c2a92f4e0e968372880d18d1/0) | N/A | ![alt text](https://i.seadn.io/gcs/files/7b3d3f53bfcc1467b61eb1ec090a0d99.png?auto=format&dpr=1&h=100) |
-| [Cyberbrokers Genesis Mechs](https://www.cyberbrokers.com/) | [Link](https://etherscan.io/address/0xb286ac8eff9f44e2c377c6770cad5fc78bff9ed6) | [Link](https://m.cyberbrokers.com/eth/mech/1) | `files` | ![alt text](https://i.seadn.io/gcs/files/a8c376defb3369bf32f7aed42f39c459.webp?auto=format&dpr=1&w=100) |
+A list of tokenized 3D avatar collections on the Ethereum blockchain and associated data. This means that in order to meet the criteria below the collection must:
 
+✅ Have multiple NFTs within the collection 
+
+✅ Have a metadata parameter associated with a 3D file
+
+✅ Be minted on the Ethereum blockchain
+
+This list is not extensive as new collections are minted every day, and prioritizes ensuring all VRM collections are highlighted given the interoperable nature of the file format. 
+
+If you'd like a collection to be added to this list, please create a PR that contains all the information listed in the columns below.
+
+If you want to get in contact, reach out to me on [X](https://twitter.com/itsmetamike) or [Discord](https://discord.gg/Eq697Thx).
+
+## 3D Avatar Collections
+
+| Creator | Contract | Metadata | Metadata Param | Preview | VRM |
+| --- | --- | --- | --- | --- | --- |
+| [CryptoAvatars](https://cryptoavatars.io/) | [Link](https://etherscan.io/address/0xbffd07cc4d32578fe3ccbf8bd0c5ffa8da3fc600) | [Link](https://api.cryptoavatars.io/v1/opensea/assets/1/0xc1def47cf1e15ee8c2a92f4e0e968372880d18d1/0) | Stored on external database | ![alt text](https://i.seadn.io/gcs/files/7b3d3f53bfcc1467b61eb1ec090a0d99.png?auto=format&dpr=1&h=100) | ✔️ |
+| [Nouns](https://nouns.wtf/) | [Link](https://etherscan.io/address/0x9c8ff314c9bc7f6e59a9d9225fb22946427edc03) | [Link](https://nouns.wtf/explore) | Stored on external database | ![alt text](https://openseauserdata.com/files/90db31d05a96c1764d596ebe0d77cd6b.svg) | ✔️ |
+| [Cyberbrokers Genesis Mechs](https://www.cyberbrokers.com/) | [Link](https://etherscan.io/address/0xb286ac8eff9f44e2c377c6770cad5fc78bff9ed6) | [Link](https://m.cyberbrokers.com/eth/mech/1) | VRM: `vrm_url` / GLB `files:glb` | ![alt text](https://i.seadn.io/gcs/files/a8c376defb3369bf32f7aed42f39c459.webp?auto=format&dpr=1&w=100) | ✔️ |
+| [Voltz](https://voltz.me/en/) | [Link](https://etherscan.io/address/0xea377cfd0ceab570569d8d37a910071d9e9eb1d4) | [Link](https://voltz.me/en/voltz-vault) | Stored on external database | ![alt text](https://i.seadn.io/gcs/files/f16fce795f5ce1a5625fdc86a05cddc5.png?auto=format&dpr=1&w=100) | ✔️ |
+| [Boomboxheads V2](https://gm3.github.io/boomboxheads-v2/) | [Link](https://etherscan.io/address/0xb67ff46dfde55ad2fe05881433e5687fd1000312) | [Link](https://ipfs.io/ipfs/bafybeigkxvps67dtm236jbso622r5qrb4pxqne2yn3jmtmsdjbuaffr5xy/20) | VRM: `vrm_url` / GLB: `description`  | ![alt text](https://i.seadn.io/gcs/files/519286ec399ec2f38fc8843b55e02a12.jpg?auto=format&dpr=1&w=100) | ✔️ |
+| [Immadegen](https://www.immadegen.com/) | [Link](https://etherscan.io/address/0xdb55584e5104505a6b38776ee4dcba7dd6bb25fe) | [Link](https://void-explorer.netlify.app/void_metadata/726) | Stored on external database | ![alt text](https://i.seadn.io/gcs/files/cf8468a9ad6b7527b2092b95e0e3a497.jpg?auto=format&dpr=1&w=100) | ✔️ |
+| [VIPE](https://vipe.io/) | [Link](https://etherscan.io/address/0x3999877754904d8542ad1845d368fa01a5e6e9a5) | [Link](https://ipfs.io/ipfs/QmdKaP8fAeV9ss4gtTJgJMk7mM5sFvVxs6PfefJfy53so9) | VRM: `asset` | ![alt text](https://i.seadn.io/gcs/files/0ab851320edac1281e4df18f8b3d570b.png?auto=format&dpr=1&w=100) | ✔️ |
+| [Allstarz PSX](https://allstarz.world/) | [Link](https://etherscan.io/address/0x6120991c423f3566753d3c6c91a5b50d7d2461b4) | [Link](https://allstarz.world/api/metadata/886.json) | VRM: `vrm_url` | ![alt text](https://i.seadn.io/gcs/files/3748f6b19bb77f54c336bfad2f5fd3fa.gif?auto=format&dpr=1&w=100) | ✔️† |
+| [MONA Avatars](https://monaverse.com/) | [Link](https://etherscan.io/address/0x773f02bbb852920099931f332089f3fadfbfa4b6) | [Link](https://ipfs.io/ipfs/bafkreifp76wypxjwzv2uprkqb4aaiuan4avlva3dyxxqiq5sofxdprmckm) | Stored on external database | ![alt text](https://res.cloudinary.com/mona-gallery/image/fetch/q_auto,f_auto/https://ipfs.mona.gallery/ipfs/QmNysmKZGkd8N52tufvrbJ4WnwBtomtQ469obdUPQBeVKU) | ✔️ |
+| [Woodies](https://woodiesofficial.com/) | [Link](https://etherscan.io/address/0x134460d32fc66a6d84487c20dcd9fdcf92316017) | [Link](https://ipfs.io/ipfs/QmRWhj1Gnv2LLJiLpCMGbdi3PPe9VTp5VHzsTpmSg4iCRy/3348) | Stored on external database | ![alt text](https://i.seadn.io/gae/U9ttcBub9dBTRilJq6MMX86NwBN8PXxe3jIbTtuffRaOrRuJm500pOkk7Vc5TR6dyhailC1e6Vsa2cNnVwcrhfaa2Pvo0cxbedWVIQ?auto=format&dpr=1&w=100) | ✔️ |
+| [Phettaverse Editions](https://emotionull.art/) | [Link](https://etherscan.io/address/0x41eb9dd376c9a3f1c02e5f3f89f22ad6ae970d51) | [Link](https://r2bmscw2ynzlpao5vnnalb5c5gfeu72jfecj23gbupjsxuhvzpjq.arweave.net/joLJCtrDcreB3ataBYei6YpKf0kpBJ1swaPTK9D1y9M) | VRM: `vrm_url` | ![alt text](https://i.seadn.io/gcs/files/fff5afa26bd2339ec8e820eac8def192.png?auto=format&dpr=1&w=100) | ✔️ |
+| [Avastars](https://avastars.io/) | [Link](https://etherscan.io/address/0xf3e778f839934fc819cfa1040aabacecba01e049) | [Link](https://avastars.io/metadata/10574) | Stored on external database | ![alt text](https://i.seadn.io/gcs/files/55c760e974bf98e640d6f99ce94ec720.png?auto=format&dpr=1&w=100) | ✔️ |
+| [Meebits](https://meebits.app/) | [Link](https://etherscan.io/address/0x7bd29408f11d2bfc23c34f18275bbf23bb716bc7) | [Link](https://meebits.app/meebit/17438) | VRM: `vrm` | ![alt text](https://i.seadn.io/gcs/files/4f0764e5cfd0cdc995572e7c4fbc65c8.png?auto=format&dpr=1&w=100) | ✔️ |
+| [Wassies](https://loomlock.com/) | [Link](https://etherscan.io/address/0x1d20a51f088492a0f1c57f047a9e30c9ab5c07ea) | [Link](https://fruuydfac2a4b4v5rip3ovqv5gg2sbaqgcgwnbnztlbt7xed7ela.arweave.net/LGlMDKAWgcDyvYoft1YV6Y2pBBAwjWaFuZrDP9yD-RY/4050.json/) | Stored on external database | ![alt text](https://i.seadn.io/gae/VdI1KeVsSLsy1MW4kuzQfRO80CSDFoy9hPd_-d4tGRVSBRrLfD5jiys1a4A6pFKUHC1UREwbOEY7Uk8oerBGCwU5qZmr4NGWJ5UNDnQ?auto=format&dpr=1&w=100) | ✔️ |
+| [Fly Frogs](https://flyfrogs.xyz/) | [Link](https://etherscan.io/address/0x31d4da52c12542ac3d6aadba5ed26a3a563a86dc) | [Link](https://ipfs.io/ipfs/QmRdNB3Q6Q5gVWnduBmxNZb4p9zKFmM3Qx3tohBb8B2KRK/0) | Stored on external database | ![alt text](https://i.seadn.io/gcs/files/ad221e234217299f240fe56f45725ba6.png?auto=format&dpr=1&w=100) | ✔️† |
+| [CyberAnimeDOLL: Avatar](https://daichi-shinpo.com/) | [Link](https://etherscan.io/address/0x495f947276749ce646f68ac8c248420045cb7b5e) | N/A | Stored on external database | ![alt text](https://i.seadn.io/gcs/files/eefd30f464fa25977babf31ce94d927e.png?auto=format&dpr=1&w=100) | ✔️ |
+| [Misfit Pixels](https://misfitpixels.xyz/) | [Link](https://etherscan.io/address/0x618951345638caa062259cdbed445d4fb661b774) | [Link](https://ipfs.io/ipfs/QmarCNTJJYahzZKFjFfZVcpLAhMNV5VwWN8bsqiKsCVAc7/9) | VRM: `files` / GLB: `files` | ![alt text](https://i.seadn.io/gcs/files/41fbb76496fa12b79e62c92f3a7772c8.png?auto=format&dpr=1&w=100) | ✔️ |
+| [The Modz](https://themodz.io/) | [Link](https://etherscan.io/address/0x50e712b3a260d7639179e8277836253461418f23) | [Link](https://cdn.themodz.studio/kids/metadata/3200) | Stored on external database | ![alt text](https://cdn.themodz.studio/kids/images/3200.jpg) | ✔️ |
+| [Metaani](https://conata.world/metaani/gen) | [Link](https://etherscan.io/address/0xa467ab9447afa5db0c70325348d810d2058dde18) | [Link](https://ipfs.io/ipfs/QmTiW6V5AG3tVJuewTV2NX1yqFJzLb28MpS7ctTHnPzKXT/2051) | VRM: `avatar_url` | ![alt text](https://ipfs.io/ipfs/Qmc3nWMtL2uNFDLTfFS1AK8vChuZhgYPwW5hiSZ69Ur8mR) | ✔️ |
+| [Frutiger Anons](https://www.scatter.art/frutiger-anons) | [Link](https://etherscan.io/address/0xbfD4F75A3C09c26e6CE9e67a257F6FBCe9F63088) | [Link](https://d1kgk9u8ytew77.cloudfront.net/ipfs/QmT64bM8LTCwtNGmj5mrh7V9oHmzKwwVyygTD1mjNqaGGX/4) | VRM: `vrm_url` | ![alt text](https://ipfs.io/ipfs/QmSFGKuCsZEPzEEuPUGHyuc1YMsqi4jJdgKkDhyxgu1AHS/4.gif) | ✔️ |
+| [Forgotten Runes Wizard Cult](http://forgottenrunes.com/) | [Link](https://etherscan.io/address/0x521f9c7505005cfa19a8e5786a9c3c9c9f5e6f42) | [Link](https://portal.forgottenrunes.com/api/wizards/data/7362) | Stored on external database | ![alt text](https://i.seadn.io/gcs/files/4fbcc8ed97e90604e0d4d7e599ce6e15.png?auto=format&dpr=1&w=100) | ✔️ |
+| [DickButt Verse](https://www.dickbuttverse.com/) | [Link](https://etherscan.io/address/0xd47d8672e45a7204057baaa3622a3fa276d651e3) | [Link](https://dickbuttverse.sfo3.digitaloceanspaces.com/json/4326.json) | VRM: `vrm_url` / GLB: `animation_url` | ![alt text](https://i.seadn.io/gcs/files/ca9d84679d6d81db5fd1ae34674d1dfb.png?auto=format&dpr=1&w=100) | ✔️ |
+| [Chain Runners](http://chainrunners.xyz/) | [Link](https://etherscan.io/address/0x97597002980134bea46250aa0510c9b90d87a587) | [Link](https://api.chainrunners.xyz/tokens/metadata/7377?dna=88139304937318087132996501001466473218219287739283605434348817608818020113833) | Stored on external database | ![alt text](https://i.seadn.io/gcs/files/50d032791256ef03a9e8927e90c1a6d9.png?auto=format&dpr=1&w=100) | ✔️ |
+| [OG Meta Meeples PFP](http://www.lucii.io/) | [Link](https://etherscan.io/address/0x1459c170e940e52628d9917c85772f7e897e7c0c) | [Link](https://ipfs.io/ipfs/bafybeib6ii2hpiknnyyinrbywmulnjnznwxpwsubigneip54tzdus66xpi/117) | Stored on external database | ![alt text](https://i.seadn.io/gcs/files/7b6578427bf873b426306b688ea3fa59.png?auto=format&dpr=1&w=100) | ✔️† |
+| [Omnimorphs](https://omnimorphs.com/) | [Link](https://etherscan.io/address/0xb5f3dee204ca76e913bb3129ba0312b9f0f31d82) | [Link](https://connect.omnimorphs.com/api/v1/external/omnimorphs/7622) | Stored on external database | ![alt text](https://i.seadn.io/gcs/files/e5a9cf7b759fe0185754e1ada8613a06.jpg?auto=format&dpr=1&w=100) | ✔️ |
+| [Elysium Shell: Next - Mecha](http://www.elysiumshell.xyz/) | [Link](https://etherscan.io/address/0xfa37cfae8458a692511cd7ffcd9ac18a69af4274) | [Link](https://connect.omnimorphs.com/api/v1/external/omnimorphs/7622) | Stored on external database | ![alt text](https://i.seadn.io/gcs/files/a6fd1079f301d7f65655b3763eefe01a.png?auto=format&dpr=1&w=100) | ✔️ |
+| [Toxic Skulls Club](https://www.toxicskullsclub.io/) | [Link](https://etherscan.io/address/0x5ca8dd7f8e1ee6d0c27a7be6d9f33ef403fbcdd8) | [Link](https://tsc.nftapi.art/meta/8167) | Stored on external database | ![alt text](https://i.seadn.io/s/raw/files/d5e8619b5fcde658598a5c39e51cdf06.png?auto=format&dpr=1&w=100) | ✔️ |
+| [PixelBeasts (Beastopia)](https://www.pixelbeasts.co/) | [Link](https://etherscan.io/address/0xd539a3a5edb713e6587e559a9d007ffff92bd9ab) | [Link](https://www.pixelbeasts.xyz/token/3064) | VRM: `model/vrm` | ![alt text](https://i.seadn.io/gae/64Ia8IKP6H4Q50JSAuj9A_SYaL7VJHIjsLGyZfYAT97XpvuQRNtDqvBSJKiRkw7dOlYqYFgi0QXfHzS86_Is2IflEVDu3eOdDeYI?auto=format&dpr=1&w=1000) | ✔️ |
+| [AdWorld](https://adworld.game/) | [Link](https://etherscan.io/address/0x62eb144fe92ddc1b10bcade03a0c09f6fbffbffb) | [Link](https://adworld.game/api/metadata/737) | Stored on external database | ![alt text](https://i.seadn.io/gcs/files/39d6aac884e41b6ba0197a76853a2f71.gif?auto=format&dpr=1&w=100) | ❌ |
+| [A Kid Called Beast](https://www.akidcalledbeast.com/) | [Link](https://etherscan.io/address/0x77372a4cc66063575b05b44481f059be356964a4) | [Link](https://ipfs.io/ipfs/QmZoKpkRCzjaFqUASv5XU4FQkBfGdBnjdQpTBFNxcpBmu1/4781) | Stored on external database | ![alt text](https://openseauserdata.com/files/7aa912a6891378edad21118f46266875.png?auto=format&dpr=1&w=100) | ❌ |
+| [FLUF World](https://fluf.world/) | [Link](https://etherscan.io/address/0xccc441ac31f02cd96c153db6fd5fe0a2f4e6a68d) | [Link](https://api.fluf.world/api/token/902) | Stored on external database | ![alt text](https://fluf-compressed.s3.eu-west-1.amazonaws.com/QmZWs1R4GEVDZC3G7WHTd2v9edjR93SfhzDvyvqQEuDZjd_432_432.png) | ❌ |
+| [FyatLux](https://fyatlux.com/) | [Link](https://etherscan.io/address/0x14c4471a7f6dcac4f03a81ded6253eaceff15b3d) | [Link](https://matiria.mypinata.cloud/ipfs/QmaVDyTNNa4tQxqCpRpw6hp4uGV2o31N8jkDkUSeuhhdrc/4577) | GLB: `external_url` | ![alt text](https://i.seadn.io/gcs/files/4afaefed7224cf73eeb9b15bc5402752.jpg?auto=format&dpr=1&w=100) | ❌ |
+| [PartyBear](https://partybear.xyz/) | [Link](https://etherscan.io/address/0x35471f47c3c0bc5fc75025b97a19ecdde00f78f8) | [Link](https://api.partybear.xyz/api/token/6094) | Stored on external database | ![alt text](https://partybears-compressed.s3.us-west-2.amazonaws.com/7581_432_432.png) | ❌ |
+| [Muhammad Ali - The Next Legends - Boxers](https://thenextlegends.xyz/) | [Link](https://etherscan.io/address/0x6bca6de2dbdc4e0d41f7273011785ea16ba47182) | [Link](https://api-locker-room.thenextlegends.xyz/meta/0x8efa8f502e2ec6d698d540fee384a6e2e707e98b6169ae3e24d60c6ba3d55021) | Stored on external database | ![alt text](https://i.seadn.io/gcs/files/e5252e64566cde56aa4338189bf9ac06.jpg?auto=format&dpr=1&w=100) | ❌ |
+| [The Seekers](https://seekers.xyz/) | [Link](https://etherscan.io/address/0xaaf03a65cbd8f01b512cd8d530a675b3963de255) | [Link](https://api.seekers.xyz/seeker/47072) | Stored on external database | ![alt text](https://nft.seekers.xyz/seekers/47072/still/47072_1080_bg.png) | ❌ |
+
+† Denotes that the collection uses the same VRM file for all tokens
+
+
+## Additional Resources
+
+- [VRM Developer Website](https://vrm.dev/en/)
+- [NFT 3D Avatars](https://hackmd.io/@XR/nftavatars)
+- [VRM Use Cases](https://hackmd.io/krbRx-WYQMSvJQ4vzeRJ8g)
+- [VRMs as Visual Digital Identities](https://www.youtube.com/watch?v=v4YhMcWeBuU)
+- [M3 Org Hub](https://m3org.com/)
